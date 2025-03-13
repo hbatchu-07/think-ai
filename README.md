@@ -165,7 +165,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/hbatchu-07/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/hbatchu-07/think-ai/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,16 +228,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hbatchu-07/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/hbatchu-07/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hbatchu-07/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/hbatchu-07/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/hbatchu-07/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/hbatchu-07/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hbatchu-07/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/hbatchu-07/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/hbatchu-07/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/hbatchu-07/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/hbatchu-07/think-ai.svg?style=for-the-badge
+[contributors-url]: https://github.com/hbatchu-07/think-ai/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hbatchu-07/think-ai.svg?style=for-the-badge
+[forks-url]: https://github.com/hbatchu-07/think-ai/network/members
+[stars-shield]: https://img.shields.io/github/stars/hbatchu-07/think-ai.svg?style=for-the-badge
+[stars-url]: https://github.com/hbatchu-07/think-ai/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hbatchu-07/think-ai.svg?style=for-the-badge
+[issues-url]: https://github.com/hbatchu-07/think-ai/issues
+[license-shield]: https://img.shields.io/github/license/hbatchu-07/think-ai.svg?style=for-the-badge
+[license-url]: https://github.com/hbatchu-07/think-ai/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hbatchu-07
 [product-screenshot]: images/screenshot.png
