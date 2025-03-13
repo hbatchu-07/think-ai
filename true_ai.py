@@ -1,9 +1,4 @@
-if __name__ == "__main__":
-    """
-    This is a docstring for the main function.
-    It describes what the function does, its parameters, and its return value.
+"""Module providing to invoke main function"""
 
-    :param: None
-    :return: None
-    """
+if __name__ == "__main__":
     print("Hello! Welcome to LangChain")
